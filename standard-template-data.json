@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-10-13T07:56:38.140930663Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-10-13T07:59:36.239357995Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a0cca3-67ae-73f0-9e5c-8b42b7d2eea8",
     "homepageId": "01a133dc-45b0-7257-84dd-804f55eae536"
@@ -2999,8 +2999,8 @@
           "id": "01a1333e-f2bf-74bf-80c7-7bf7266fb0e1",
           "images": [
             {
-              "id": "01a13442-976b-711f-86eb-90d0cae7bc2d",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_thumbnail/1791878141253-w4hr6i3443.jpg",
+              "id": "01a13445-7926-7c34-ad4e-b2a485e80718",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_thumbnail/1791878329742-kn3523146a.jpg",
               "sortOrder": 19,
               "description": "",
               "isSelected": true,
@@ -3008,8 +3008,8 @@
               "category": "roomtype_thumbnail"
             },
             {
-              "id": "01a133f4-8216-75b7-94cc-0921a2c624d7",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791873023423-4zm2jzs7wo.jpg",
+              "id": "01a13445-7835-7924-a905-4306c0666f1e",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791878329739-9dkctbc2yy.jpg",
               "sortOrder": 200,
               "description": "",
               "isSelected": true,
