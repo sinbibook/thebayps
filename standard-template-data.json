@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.17.0",
-    "generatedAt": "2026-10-13T08:43:22.484394127Z",
+    "version": "1.18.0",
+    "generatedAt": "2026-10-13T08:46:11.240795235Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a0cca3-67ae-73f0-9e5c-8b42b7d2eea8",
     "homepageId": "01a133dc-45b0-7257-84dd-804f55eae536"
@@ -76,7 +76,7 @@
         "id": "01a133d6-7dfc-76ed-834f-1760be2096d6",
         "name": "오션뷰",
         "description": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.",
-        "usageGuide": "",
+        "usageGuide": " ",
         "displayOrder": 0,
         "images": [
           {
