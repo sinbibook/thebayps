@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2026-10-13T08:22:49.360671483Z",
+    "version": "1.13.0",
+    "generatedAt": "2026-10-13T08:25:29.249775393Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a0cca3-67ae-73f0-9e5c-8b42b7d2eea8",
     "homepageId": "01a133dc-45b0-7257-84dd-804f55eae536"
@@ -4331,6 +4331,33 @@
               "isSelected": true,
               "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
               "category": "roomtype_interior"
+            },
+            {
+              "id": "01a1345d-6427-7463-8447-262dd1155928",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791879896813-vwr784cevs.jpg",
+              "sortOrder": 57,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a1345d-62bb-7d2d-a75a-052032e27685",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791879896817-6bmf3obse4.jpg",
+              "sortOrder": 58,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a1345d-642a-7494-a82f-ab723b3cc7ad",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791879896814-ry2iarb72x.jpg",
+              "sortOrder": 59,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_exterior"
             }
           ]
         },
