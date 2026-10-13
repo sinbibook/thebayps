@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-10-13T08:09:08.980444003Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-10-13T08:15:10.091909863Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a0cca3-67ae-73f0-9e5c-8b42b7d2eea8",
     "homepageId": "01a133dc-45b0-7257-84dd-804f55eae536"
@@ -4817,6 +4817,15 @@
         {
           "id": "01a133d0-0569-79e8-bbc2-83c85c70a619",
           "images": [
+            {
+              "id": "01a13454-42f6-7eb5-9b0d-c675c0f57aea",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_thumbnail/1791879299399-v7pivaxy2m.jpg",
+              "sortOrder": 20,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133d0-0569-79e8-bbc2-83c85c70a619",
+              "category": "roomtype_thumbnail"
+            },
             {
               "id": "01a13401-4355-7131-a4b2-30f33b828d5b",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791873857560-owupiiizb2.jpg",
