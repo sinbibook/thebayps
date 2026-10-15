@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-10-15T07:26:10.321284400Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-10-15T11:00:39.597186320Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a0cca3-67ae-73f0-9e5c-8b42b7d2eea8",
     "homepageId": "01a133dc-45b0-7257-84dd-804f55eae536"
@@ -325,52 +325,52 @@
   },
   "rooms": [
     {
-      "id": "01a13308-0cb3-770d-af68-67e14e8fbc39",
-      "name": "스카이 디럭스 더블1 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "id": "01a1333e-f741-7321-ad04-0a76b16531fa",
+      "name": "가든 디럭스 201호",
+      "description": "원룸형, 온돌룸(침구세트2)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
       "roomInfo": "",
       "usageGuide": "",
-      "group": "스카이 디럭스 더블",
+      "group": null,
       "size": 39.67,
       "baseOccupancy": 2,
-      "maxOccupancy": 3,
+      "maxOccupancy": 4,
       "totalRoomCount": {
-        "bedroom": 1,
+        "bedroom": 0,
         "bathroom": 1,
         "livingRoom": 0,
-        "ondol": 0,
+        "ondol": 1,
         "kitchen": 1
       },
       "bedTypes": [
-        "더블 베드"
+        "바닥침구"
       ],
       "bedConfigs": [
         {
           "roomIndex": 1,
-          "roomKind": "bedroom",
+          "roomKind": "ondol",
           "bedCount": {
-            "double": 1,
+            "double": 0,
             "single": 0,
             "bunkBed": 0,
             "queen": 0,
             "king": 0,
             "family": 0,
             "sofaBed": 0,
-            "beddingSet": 0
+            "beddingSet": 2
           }
         }
       ],
       "amenities": [
-        "전기포트",
+        "냉장고",
+        "금연",
         "TV",
         "남녀공용",
-        "욕실용품",
-        "금연",
+        "전기포트",
         "에어컨",
+        "헤어드라이어",
         "전자레인지",
-        "냉장고",
         "취사시설/도구",
-        "헤어드라이어"
+        "욕실용품"
       ],
       "roomViews": [
         "바다전망(씨뷰)"
@@ -400,838 +400,8 @@
       "displayOrder": 1
     },
     {
-      "id": "01a1333e-f6e4-7977-a915-5db7d5578007",
-      "name": "스카이 디럭스 더블2 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": "스카이 디럭스 더블",
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 0,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "냉장고",
-        "금연",
-        "TV",
-        "남녀공용",
-        "욕실용품",
-        "전기포트",
-        "취사시설/도구",
-        "에어컨",
-        "헤어드라이어",
-        "전자레인지"
-      ],
-      "roomViews": [
-        "바다전망(씨뷰)"
-      ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "Y",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 2
-    },
-    {
-      "id": "01a1333e-f2bf-74bf-80c7-7bf7266fb0e1",
-      "name": "스카이 디럭스 더블3 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": "스카이 디럭스 더블",
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 0,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "전기포트",
-        "금연",
-        "TV",
-        "냉장고",
-        "남녀공용",
-        "욕실용품",
-        "취사시설/도구",
-        "에어컨",
-        "헤어드라이어",
-        "전자레인지"
-      ],
-      "roomViews": [
-        "바다전망(씨뷰)"
-      ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "Y",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 3
-    },
-    {
-      "id": "01a1333e-f3c5-79a5-a454-39a1b09daa0d",
-      "name": "스카이 디럭스 더블4 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": "스카이 디럭스 더블",
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 0,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "전기포트",
-        "헤어드라이어",
-        "전자레인지",
-        "취사시설/도구",
-        "냉장고",
-        "금연",
-        "TV",
-        "남녀공용",
-        "욕실용품",
-        "에어컨"
-      ],
-      "roomViews": [
-        "바다전망(씨뷰)"
-      ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "Y",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 4
-    },
-    {
-      "id": "01a13376-1134-78a4-bbb9-58a5c121c0ca",
-      "name": "스카이 디럭스 더블5 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": "스카이 디럭스 더블",
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 0,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "전기포트",
-        "전자레인지",
-        "에어컨",
-        "냉장고",
-        "금연",
-        "TV",
-        "남녀공용",
-        "욕실용품",
-        "취사시설/도구",
-        "헤어드라이어"
-      ],
-      "roomViews": [
-        "바다전망(씨뷰)"
-      ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "Y",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 5
-    },
-    {
-      "id": "01a1333e-f306-7c46-8c82-7dfc3eb3e3ab",
-      "name": "스카이 디럭스 트윈1 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": "스카이 디럭스 트윈",
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드",
-        "싱글 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 1,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "전기포트",
-        "남녀공용",
-        "TV",
-        "욕실용품",
-        "냉장고",
-        "금연",
-        "취사시설/도구",
-        "에어컨",
-        "전자레인지",
-        "헤어드라이어"
-      ],
-      "roomViews": [
-        "바다전망(씨뷰)"
-      ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "Y",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 6
-    },
-    {
-      "id": "01a1333e-f4a5-713c-b771-58fa71880b5a",
-      "name": "스카이 디럭스 트윈2 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": "스카이 디럭스 트윈",
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드",
-        "싱글 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 1,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "전기포트",
-        "전자레인지",
-        "취사시설/도구",
-        "에어컨",
-        "TV",
-        "남녀공용",
-        "욕실용품",
-        "금연",
-        "냉장고",
-        "헤어드라이어"
-      ],
-      "roomViews": [
-        "바다전망(씨뷰)"
-      ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "Y",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 7
-    },
-    {
-      "id": "01a1333e-f573-7f8b-9fad-5f3d93f61d61",
-      "name": "스카이 디럭스 트윈3 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": "스카이 디럭스 트윈",
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드",
-        "싱글 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 1,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "헤어드라이어",
-        "에어컨",
-        "냉장고",
-        "금연",
-        "TV",
-        "남녀공용",
-        "욕실용품",
-        "전기포트",
-        "취사시설/도구",
-        "전자레인지"
-      ],
-      "roomViews": [ ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "Y",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 8
-    },
-    {
-      "id": "01a1333e-f5bf-7ac7-9144-5c8479f72485",
-      "name": "스카이 디럭스 트윈4 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": "스카이 디럭스 트윈",
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드",
-        "싱글 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 1,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "전기포트",
-        "헤어드라이어",
-        "취사시설/도구",
-        "금연",
-        "TV",
-        "남녀공용",
-        "욕실용품",
-        "전자레인지",
-        "에어컨",
-        "냉장고"
-      ],
-      "roomViews": [
-        "바다전망(씨뷰)"
-      ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "Y",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 9
-    },
-    {
-      "id": "01a1333e-f603-7fce-b2e9-0df10e5a5e8d",
-      "name": "스카이 디럭스 트윈5 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": "스카이 디럭스 트윈",
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드",
-        "싱글 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 1,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "전기포트",
-        "냉장고",
-        "금연",
-        "TV",
-        "남녀공용",
-        "에어컨",
-        "취사시설/도구",
-        "욕실용품",
-        "헤어드라이어",
-        "전자레인지"
-      ],
-      "roomViews": [
-        "바다전망(씨뷰)"
-      ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "Y",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 10
-    },
-    {
-      "id": "01a1333e-f654-767f-ac31-ba7769a3c490",
-      "name": "스카이 디럭스 트윈6 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": "스카이 디럭스 트윈",
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드",
-        "싱글 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 1,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "전자레인지",
-        "취사시설/도구",
-        "에어컨",
-        "냉장고",
-        "금연",
-        "TV",
-        "남녀공용",
-        "욕실용품",
-        "전기포트",
-        "헤어드라이어"
-      ],
-      "roomViews": [
-        "바다전망(씨뷰)"
-      ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "Y",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 11
-    },
-    {
-      "id": "01a1333e-f696-7c45-bcaa-7b36821569f9",
-      "name": "스카이 디럭스 트윈7 (오션뷰)",
-      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
-      "roomInfo": "",
-      "usageGuide": "",
-      "group": "스카이 디럭스 트윈",
-      "size": 39.67,
-      "baseOccupancy": 2,
-      "maxOccupancy": 3,
-      "totalRoomCount": {
-        "bedroom": 1,
-        "bathroom": 1,
-        "livingRoom": 0,
-        "ondol": 0,
-        "kitchen": 1
-      },
-      "bedTypes": [
-        "더블 베드",
-        "싱글 베드"
-      ],
-      "bedConfigs": [
-        {
-          "roomIndex": 1,
-          "roomKind": "bedroom",
-          "bedCount": {
-            "double": 1,
-            "single": 1,
-            "bunkBed": 0,
-            "queen": 0,
-            "king": 0,
-            "family": 0,
-            "sofaBed": 0,
-            "beddingSet": 0
-          }
-        }
-      ],
-      "amenities": [
-        "헤어드라이어",
-        "취사시설/도구",
-        "냉장고",
-        "금연",
-        "TV",
-        "남녀공용",
-        "욕실용품",
-        "전기포트",
-        "에어컨",
-        "전자레인지"
-      ],
-      "roomViews": [
-        "바다전망(씨뷰)"
-      ],
-      "roomStructures": [
-        "원룸형"
-      ],
-      "status": "active",
-      "timeSettings": {
-        "timeSettingType": "property",
-        "checkin": "15:00",
-        "checkout": "11:00",
-        "checkinDeadline": "22:00"
-      },
-      "roomOptions": {
-        "petState": "N",
-        "poolState": "Y",
-        "barbecueState": "Y"
-      },
-      "images": [
-        {
-          "thumbnail": [ ],
-          "interior": [ ],
-          "exterior": [ ]
-        }
-      ],
-      "displayOrder": 12
-    },
-    {
       "id": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-      "name": "스카이 디럭스 싱글 (오션뷰)",
+      "name": "스카이 디럭스 싱글 202호",
       "description": "원룸형, 침대룸(싱글침대2)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
       "roomInfo": "",
       "usageGuide": "",
@@ -1302,55 +472,885 @@
           "exterior": [ ]
         }
       ],
-      "displayOrder": 13
+      "displayOrder": 2
     },
     {
-      "id": "01a1333e-f741-7321-ad04-0a76b16531fa",
-      "name": "가든 디럭스 (온돌/오션뷰)",
-      "description": "원룸형, 온돌룸(침구세트2)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "id": "01a13308-0cb3-770d-af68-67e14e8fbc39",
+      "name": "스카이 디럭스 더블 205호",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
       "roomInfo": "",
       "usageGuide": "",
-      "group": null,
+      "group": "스카이 디럭스 더블",
       "size": 39.67,
       "baseOccupancy": 2,
-      "maxOccupancy": 4,
+      "maxOccupancy": 3,
       "totalRoomCount": {
-        "bedroom": 0,
+        "bedroom": 1,
         "bathroom": 1,
         "livingRoom": 0,
-        "ondol": 1,
+        "ondol": 0,
         "kitchen": 1
       },
       "bedTypes": [
-        "바닥침구"
+        "더블 베드"
       ],
       "bedConfigs": [
         {
           "roomIndex": 1,
-          "roomKind": "ondol",
+          "roomKind": "bedroom",
           "bedCount": {
-            "double": 0,
+            "double": 1,
             "single": 0,
             "bunkBed": 0,
             "queen": 0,
             "king": 0,
             "family": 0,
             "sofaBed": 0,
-            "beddingSet": 2
+            "beddingSet": 0
           }
         }
       ],
       "amenities": [
         "전기포트",
+        "TV",
+        "금연",
+        "남녀공용",
+        "욕실용품",
+        "에어컨",
+        "전자레인지",
+        "냉장고",
+        "취사시설/도구",
+        "헤어드라이어"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 3
+    },
+    {
+      "id": "01a1333e-f6e4-7977-a915-5db7d5578007",
+      "name": "스카이 디럭스 더블 501호",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": "스카이 디럭스 더블",
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "전기포트",
+        "취사시설/도구",
+        "에어컨",
+        "헤어드라이어",
+        "전자레인지"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 4
+    },
+    {
+      "id": "01a1333e-f2bf-74bf-80c7-7bf7266fb0e1",
+      "name": "스카이 디럭스 더블 502호",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": "스카이 디럭스 더블",
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "전기포트",
+        "금연",
+        "TV",
+        "냉장고",
+        "남녀공용",
+        "욕실용품",
+        "취사시설/도구",
+        "에어컨",
+        "헤어드라이어",
+        "전자레인지"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 5
+    },
+    {
+      "id": "01a1333e-f3c5-79a5-a454-39a1b09daa0d",
+      "name": "스카이 디럭스 더블 505호",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": "스카이 디럭스 더블",
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "헤어드라이어",
+        "취사시설/도구",
+        "냉장고",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "전자레인지",
+        "전기포트",
+        "에어컨"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 6
+    },
+    {
+      "id": "01a13376-1134-78a4-bbb9-58a5c121c0ca",
+      "name": "스카이 디럭스 더블 506호",
+      "description": "원룸형, 침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": "스카이 디럭스 더블",
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 0,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "전기포트",
+        "전자레인지",
+        "취사시설/도구",
         "에어컨",
         "냉장고",
         "금연",
         "TV",
         "남녀공용",
-        "헤어드라이어",
-        "전자레인지",
+        "욕실용품",
+        "헤어드라이어"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 7
+    },
+    {
+      "id": "01a1333e-f306-7c46-8c82-7dfc3eb3e3ab",
+      "name": "스카이 디럭스 트윈 203호",
+      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": "스카이 디럭스 트윈",
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "전기포트",
+        "남녀공용",
+        "TV",
+        "욕실용품",
+        "냉장고",
+        "금연",
         "취사시설/도구",
-        "욕실용품"
+        "에어컨",
+        "전자레인지",
+        "헤어드라이어"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 8
+    },
+    {
+      "id": "01a1333e-f4a5-713c-b771-58fa71880b5a",
+      "name": "스카이 디럭스 트윈 206호",
+      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": "스카이 디럭스 트윈",
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "취사시설/도구",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "에어컨",
+        "전기포트",
+        "전자레인지",
+        "금연",
+        "냉장고",
+        "헤어드라이어"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 9
+    },
+    {
+      "id": "01a1333e-f573-7f8b-9fad-5f3d93f61d61",
+      "name": "스카이 디럭스 트윈 207호",
+      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": "스카이 디럭스 트윈",
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "헤어드라이어",
+        "에어컨",
+        "냉장고",
+        "전기포트",
+        "취사시설/도구",
+        "전자레인지"
+      ],
+      "roomViews": [ ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 10
+    },
+    {
+      "id": "01a1333e-f5bf-7ac7-9144-5c8479f72485",
+      "name": "스카이 디럭스 트윈 301호",
+      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": "스카이 디럭스 트윈",
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "취사시설/도구",
+        "금연",
+        "TV",
+        "남녀공용",
+        "전기포트",
+        "헤어드라이어",
+        "욕실용품",
+        "전자레인지",
+        "에어컨",
+        "냉장고"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 11
+    },
+    {
+      "id": "01a1333e-f603-7fce-b2e9-0df10e5a5e8d",
+      "name": "스카이 디럭스 트윈 302호",
+      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": "스카이 디럭스 트윈",
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "전기포트",
+        "TV",
+        "남녀공용",
+        "냉장고",
+        "금연",
+        "에어컨",
+        "취사시설/도구",
+        "욕실용품",
+        "헤어드라이어",
+        "전자레인지"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 12
+    },
+    {
+      "id": "01a1333e-f654-767f-ac31-ba7769a3c490",
+      "name": "스카이 디럭스 트윈 305호",
+      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": "스카이 디럭스 트윈",
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "전기포트",
+        "취사시설/도구",
+        "에어컨",
+        "금연",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "냉장고",
+        "전자레인지",
+        "헤어드라이어"
+      ],
+      "roomViews": [
+        "바다전망(씨뷰)"
+      ],
+      "roomStructures": [
+        "원룸형"
+      ],
+      "status": "active",
+      "timeSettings": {
+        "timeSettingType": "property",
+        "checkin": "15:00",
+        "checkout": "11:00",
+        "checkinDeadline": "22:00"
+      },
+      "roomOptions": {
+        "petState": "N",
+        "poolState": "Y",
+        "barbecueState": "Y"
+      },
+      "images": [
+        {
+          "thumbnail": [ ],
+          "interior": [ ],
+          "exterior": [ ]
+        }
+      ],
+      "displayOrder": 13
+    },
+    {
+      "id": "01a1333e-f696-7c45-bcaa-7b36821569f9",
+      "name": "스카이 디럭스 트윈 306호",
+      "description": "원룸형, 침대룸(더블침대1,싱글침대1)+주방1+화장실1\r\n바다전망, 12평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
+      "roomInfo": "",
+      "usageGuide": "",
+      "group": "스카이 디럭스 트윈",
+      "size": 39.67,
+      "baseOccupancy": 2,
+      "maxOccupancy": 3,
+      "totalRoomCount": {
+        "bedroom": 1,
+        "bathroom": 1,
+        "livingRoom": 0,
+        "ondol": 0,
+        "kitchen": 1
+      },
+      "bedTypes": [
+        "더블 베드",
+        "싱글 베드"
+      ],
+      "bedConfigs": [
+        {
+          "roomIndex": 1,
+          "roomKind": "bedroom",
+          "bedCount": {
+            "double": 1,
+            "single": 1,
+            "bunkBed": 0,
+            "queen": 0,
+            "king": 0,
+            "family": 0,
+            "sofaBed": 0,
+            "beddingSet": 0
+          }
+        }
+      ],
+      "amenities": [
+        "취사시설/도구",
+        "TV",
+        "남녀공용",
+        "욕실용품",
+        "헤어드라이어",
+        "냉장고",
+        "금연",
+        "전기포트",
+        "에어컨",
+        "전자레인지"
       ],
       "roomViews": [
         "바다전망(씨뷰)"
@@ -1381,7 +1381,7 @@
     },
     {
       "id": "01a1333e-f970-7ead-89d0-a0f9f0b66e9e",
-      "name": "오션 디럭스1 (오션뷰)",
+      "name": "오션 디럭스 208호",
       "description": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 17평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
       "roomInfo": "",
       "usageGuide": "",
@@ -1456,7 +1456,7 @@
     },
     {
       "id": "01a1333e-f852-735c-88b1-6f960cfba1be",
-      "name": "오션 디럭스2 (오션뷰)",
+      "name": "오션 디럭스 307호",
       "description": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 17평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
       "roomInfo": "",
       "usageGuide": "",
@@ -1491,11 +1491,11 @@
         }
       ],
       "amenities": [
-        "전기포트",
         "에어컨",
         "금연",
         "TV",
         "남녀공용",
+        "전기포트",
         "냉장고",
         "취사시설/도구",
         "헤어드라이어",
@@ -1531,7 +1531,7 @@
     },
     {
       "id": "01a1333e-f8d3-7ad4-a4e5-c746e9a893ed",
-      "name": "오션 디럭스3 (오션뷰)",
+      "name": "오션 디럭스 507호",
       "description": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n17평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
       "roomInfo": "",
       "usageGuide": "",
@@ -1567,13 +1567,13 @@
       ],
       "amenities": [
         "전기포트",
-        "취사시설/도구",
-        "에어컨",
         "냉장고",
         "금연",
-        "TV",
         "남녀공용",
         "욕실용품",
+        "취사시설/도구",
+        "에어컨",
+        "TV",
         "헤어드라이어",
         "전자레인지"
       ],
@@ -1604,7 +1604,7 @@
     },
     {
       "id": "01a13376-27cc-706c-97d3-bfa8d027b954",
-      "name": "오션 패밀리1 (오션뷰)",
+      "name": "오션 패밀리 303호",
       "description": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 23평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
       "roomInfo": "",
       "usageGuide": "",
@@ -1640,10 +1640,10 @@
       ],
       "amenities": [
         "전기포트",
-        "취사시설/도구",
         "냉장고",
         "TV",
         "남녀공용",
+        "취사시설/도구",
         "헤어드라이어",
         "금연",
         "욕실용품",
@@ -1679,7 +1679,7 @@
     },
     {
       "id": "01a13376-1585-733b-8188-ae1c136b431b",
-      "name": "오션 패밀리2 (오션뷰)",
+      "name": "오션 패밀리 503호",
       "description": "분리형, 거실1+침대룸(더블침대1)+주방1+화장실1\r\n바다전망, 23평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
       "roomInfo": "",
       "usageGuide": "",
@@ -1754,7 +1754,7 @@
     },
     {
       "id": "01a133d0-0569-79e8-bbc2-83c85c70a619",
-      "name": "더베이 패밀리 (오션뷰)",
+      "name": "더베이 패밀리 101호",
       "description": "분리형, 거실1+침대룸(더블침대1)+침대룸(더블침대1)+온돌룸(침구세트1)+주방1+화장실2\r\n바다전망, 40평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
       "roomInfo": "",
       "usageGuide": "",
@@ -1818,12 +1818,12 @@
         }
       ],
       "amenities": [
-        "전기포트",
         "에어컨",
         "냉장고",
         "금연",
-        "TV",
         "남녀공용",
+        "전기포트",
+        "TV",
         "욕실용품",
         "전자레인지",
         "헤어드라이어",
@@ -1858,7 +1858,7 @@
     },
     {
       "id": "01a133cf-fc55-78fa-aa28-078eee43a1b7",
-      "name": "블루오션 패밀리 (오션뷰)",
+      "name": "블루오션 패밀리 별관 1층",
       "description": "분리형, 거실1+침대룸(더블침대2)+침대룸(더블침대1)+주방1+화장실2\r\n바다전망, 30평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
       "roomInfo": "",
       "usageGuide": "",
@@ -1907,13 +1907,13 @@
         }
       ],
       "amenities": [
-        "전기포트",
         "취사시설/도구",
         "에어컨",
         "냉장고",
-        "금연",
         "TV",
         "남녀공용",
+        "금연",
+        "전기포트",
         "욕실용품",
         "전자레인지",
         "헤어드라이어"
@@ -1947,7 +1947,7 @@
     },
     {
       "id": "01a133d0-03dd-78e7-aa20-d17d196c0de3",
-      "name": "그랑데 패밀리 (파노라마 오션뷰)",
+      "name": "그랑데 패밀리 별관 2층",
       "description": "분리형, 거실1+침대룸(더블침대1)+침대룸(싱글침대2)+주방1+화장실2\r\n30평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,취사시설/도구,전자레인지,드라이기,커피포트",
       "roomInfo": "",
       "usageGuide": "",
@@ -1997,7 +1997,6 @@
         }
       ],
       "amenities": [
-        "전기포트",
         "전자레인지",
         "취사시설/도구",
         "에어컨",
@@ -2006,6 +2005,7 @@
         "TV",
         "남녀공용",
         "욕실용품",
+        "전기포트",
         "헤어드라이어"
       ],
       "roomViews": [ ],
@@ -2551,8 +2551,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "01a13480-23ee-70d2-9a2e-ddd983cfb0c9",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/layout_map_about/1791882175027-ur5t18r4vi.jpg",
+                    "id": "01a13f38-9bbb-7b48-988d-ef2d6755d409",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/layout_map_about/1792062036511-x1kkgq5tvo.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -2748,6 +2748,206 @@
         "nameEn": "Seogwipo The Bay Pension"
       },
       "roomtypes": [
+        {
+          "id": "01a1333e-f741-7321-ad04-0a76b16531fa",
+          "images": [
+            {
+              "id": "01a133e3-93b1-71f4-a8f5-9b6482bebc74",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_thumbnail/1791871914154-yorlr96df1.jpg",
+              "sortOrder": 13,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a133e3-9333-7662-9eaa-c909ac04479d",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914067-8492gb97f9.jpg",
+              "sortOrder": 117,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a133e3-9289-777d-98bb-300b82a59fbe",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914040-jkfgy46ew0.jpg",
+              "sortOrder": 118,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a133e3-933c-79d8-85ea-d578d60ea07f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914068-iwvneecamh.jpg",
+              "sortOrder": 119,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a133e3-92db-7e95-9493-491c34d828d1",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914145-v8pl6n4ly1.jpg",
+              "sortOrder": 120,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a133e3-933c-7550-a69c-6f5780f0b2d2",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914065-t3z5mr46v8.jpg",
+              "sortOrder": 121,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a133e3-926f-705a-bb84-0cf3dad94883",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914073-s2a69k73uy.jpg",
+              "sortOrder": 122,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a1345d-6427-7463-8447-262dd1155928",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791879896813-vwr784cevs.jpg",
+              "sortOrder": 39,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a1345d-62bb-7d2d-a75a-052032e27685",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791879896817-6bmf3obse4.jpg",
+              "sortOrder": 40,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a1345d-642a-7494-a82f-ab723b3cc7ad",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791879896814-ry2iarb72x.jpg",
+              "sortOrder": 41,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
+              "category": "roomtype_exterior"
+            }
+          ]
+        },
+        {
+          "id": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+          "images": [
+            {
+              "id": "01a13505-b282-78e4-b552-5cf022705683",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_thumbnail/1791890927301-5cdj8n2kdo.jpg",
+              "sortOrder": 12,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+              "category": "roomtype_thumbnail"
+            },
+            {
+              "id": "01a13505-b61a-7157-b3e7-33721a5f36c5",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927308-9kdrb4w7mk.jpg",
+              "sortOrder": 110,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a13505-b690-7a77-80cf-139d7cc7b069",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927327-km66x93lc9.jpg",
+              "sortOrder": 111,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a13505-b640-7499-a080-fe38750f0f87",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927329-hc96h4xwhr.jpg",
+              "sortOrder": 112,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a13505-b642-7dae-99b1-6506c145be02",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927330-ait2ku0c8r.jpg",
+              "sortOrder": 113,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a13505-b628-7240-a0e9-620ffaeb87b1",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927330-gh8d9rb2xd.jpg",
+              "sortOrder": 114,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a13505-b622-7b9f-860b-0e5949439df5",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927326-cbm010jlag.jpg",
+              "sortOrder": 115,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a13505-b64f-78d0-9e7e-1773f8fb6f74",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927320-1p3ox7qexy.jpg",
+              "sortOrder": 116,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+              "category": "roomtype_interior"
+            },
+            {
+              "id": "01a13505-b642-7c1b-bac6-7cdcd4b850b3",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791890927321-9godep9e24.jpg",
+              "sortOrder": 36,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a13505-b634-7166-ab05-2ac5e38b4bce",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791890927385-pprmfbfvnt.jpg",
+              "sortOrder": 37,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "01a13505-b622-776b-9960-837a46018582",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791890927313-a3yuk2q04i.jpg",
+              "sortOrder": 38,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
+              "category": "roomtype_exterior"
+            }
+          ],
+          "groupName": "스카이 디럭스 싱글"
+        },
         {
           "id": "01a13308-0cb3-770d-af68-67e14e8fbc39",
           "images": [
@@ -4240,206 +4440,6 @@
             }
           ],
           "groupName": "스카이 디럭스 트윈"
-        },
-        {
-          "id": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-          "images": [
-            {
-              "id": "01a13505-b282-78e4-b552-5cf022705683",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_thumbnail/1791890927301-5cdj8n2kdo.jpg",
-              "sortOrder": 12,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-              "category": "roomtype_thumbnail"
-            },
-            {
-              "id": "01a13505-b61a-7157-b3e7-33721a5f36c5",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927308-9kdrb4w7mk.jpg",
-              "sortOrder": 110,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a13505-b690-7a77-80cf-139d7cc7b069",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927327-km66x93lc9.jpg",
-              "sortOrder": 111,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a13505-b640-7499-a080-fe38750f0f87",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927329-hc96h4xwhr.jpg",
-              "sortOrder": 112,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a13505-b642-7dae-99b1-6506c145be02",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927330-ait2ku0c8r.jpg",
-              "sortOrder": 113,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a13505-b628-7240-a0e9-620ffaeb87b1",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927330-gh8d9rb2xd.jpg",
-              "sortOrder": 114,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a13505-b622-7b9f-860b-0e5949439df5",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927326-cbm010jlag.jpg",
-              "sortOrder": 115,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a13505-b64f-78d0-9e7e-1773f8fb6f74",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791890927320-1p3ox7qexy.jpg",
-              "sortOrder": 116,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a13505-b642-7c1b-bac6-7cdcd4b850b3",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791890927321-9godep9e24.jpg",
-              "sortOrder": 36,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "01a13505-b634-7166-ab05-2ac5e38b4bce",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791890927385-pprmfbfvnt.jpg",
-              "sortOrder": 37,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "01a13505-b622-776b-9960-837a46018582",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791890927313-a3yuk2q04i.jpg",
-              "sortOrder": 38,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a133cf-ed28-76fd-9312-d5a5f8f58425",
-              "category": "roomtype_exterior"
-            }
-          ],
-          "groupName": "스카이 디럭스 싱글"
-        },
-        {
-          "id": "01a1333e-f741-7321-ad04-0a76b16531fa",
-          "images": [
-            {
-              "id": "01a133e3-93b1-71f4-a8f5-9b6482bebc74",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_thumbnail/1791871914154-yorlr96df1.jpg",
-              "sortOrder": 13,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
-              "category": "roomtype_thumbnail"
-            },
-            {
-              "id": "01a133e3-9333-7662-9eaa-c909ac04479d",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914067-8492gb97f9.jpg",
-              "sortOrder": 117,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a133e3-9289-777d-98bb-300b82a59fbe",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914040-jkfgy46ew0.jpg",
-              "sortOrder": 118,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a133e3-933c-79d8-85ea-d578d60ea07f",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914068-iwvneecamh.jpg",
-              "sortOrder": 119,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a133e3-92db-7e95-9493-491c34d828d1",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914145-v8pl6n4ly1.jpg",
-              "sortOrder": 120,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a133e3-933c-7550-a69c-6f5780f0b2d2",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914065-t3z5mr46v8.jpg",
-              "sortOrder": 121,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a133e3-926f-705a-bb84-0cf3dad94883",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_interior/1791871914073-s2a69k73uy.jpg",
-              "sortOrder": 122,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
-              "category": "roomtype_interior"
-            },
-            {
-              "id": "01a1345d-6427-7463-8447-262dd1155928",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791879896813-vwr784cevs.jpg",
-              "sortOrder": 39,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "01a1345d-62bb-7d2d-a75a-052032e27685",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791879896817-6bmf3obse4.jpg",
-              "sortOrder": 40,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
-              "category": "roomtype_exterior"
-            },
-            {
-              "id": "01a1345d-642a-7494-a82f-ab723b3cc7ad",
-              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a133dc-45b0-7257-84dd-804f55eae536/roomtype_exterior/1791879896814-ry2iarb72x.jpg",
-              "sortOrder": 41,
-              "description": "",
-              "isSelected": true,
-              "blockId": "01a1333e-f741-7321-ad04-0a76b16531fa",
-              "category": "roomtype_exterior"
-            }
-          ]
         },
         {
           "id": "01a1333e-f970-7ead-89d0-a0f9f0b66e9e",
