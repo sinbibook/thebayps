@@ -260,3 +260,27 @@
         height: 18px;
     }
 }
+
+/* ── 푸터 농어촌민박사업자 이미지 (템플릿 확장) ─────────────────────
+   customFields.footer.ruralStayMark 가 있을 때만 매퍼가 노출한다(마크업 기본 숨김).
+   사업자정보 컬럼(.footer-company) 맨 아래, 통신판매업 줄 밑에 왼쪽 정렬로 둔다.
+   표시마크 이미지는 세로형(마크 + 신고번호 박스)이라 높이를 고정하고 비율은 이미지에 맡긴다.
+   신고번호가 읽히도록 모바일에서도 64px 아래로 줄이지 않는다. */
+.footer-rural-stay-mark-wrap {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.footer-rural-stay-mark {
+    display: block;
+    width: auto;
+    height: 80px;
+    max-width: 100%;
+    object-fit: contain;
+}
+
+@media (max-width: 768px) {
+    .footer-rural-stay-mark {
+        height: 64px;
+    }
+}
